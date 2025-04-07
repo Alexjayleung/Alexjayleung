@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Keylogger in Python]([https://github.com/yourusername/keylogger-project](https://github.com/Alexjayleung/KeyCapture-Learning-Tool))
+  - [Keylogger in Python](https://github.com/Alexjayleung/KeyCapture-Learning-Tool)
 
 <h2> Certifications</h2>
   - CompTIA A+ 
