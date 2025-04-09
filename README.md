@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/Alexjayleung/Active-Directory-Home-Lab)
-  - [Cloud-Native SIEM Deployment with Azure Sentinel](https://github.com/Alexjayleung/KeyCapture-Learning-Tool)
+  - [Cloud-Native SIEM Deployment with Azure Sentinel](https://github.com/Alexjayleung/Azure-Sentinel)
   - [KeyLogger in Python (educational)](https://github.com/Alexjayleung/KeyCapture-Learning-Tool)
 
 <h2> Certifications</h2>
