@@ -7,7 +7,7 @@
   - [KeyLogger in Python (educational)](https://github.com/Alexjayleung/KeyCapture-Learning-Tool)
 
 <h2> Certifications</h2>
-  - CompTIA A+ 
+  - CompTIA A+ (in-progress)
   
 <h2>📺 Popular YouTube Videos</h2>
 
