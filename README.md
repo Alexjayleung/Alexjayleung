@@ -17,12 +17,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  ➤ [Active Directory Home Lab](https://github.com/Alexjayleung/Active-Directory-Home-Lab)  
-  ➤ [Cloud-Native SIEM Deployment with Azure Sentinel](https://github.com/Alexjayleung/Azure-Sentinel)  
-  ➤ [KeyLogger in Python (educational)](https://github.com/Alexjayleung/KeyCapture-Learning-Tool)
+  - [Active Directory Home Lab](https://github.com/Alexjayleung/Active-Directory-Home-Lab)  
+  - [Cloud-Native SIEM Deployment with Azure Sentinel](https://github.com/Alexjayleung/Azure-Sentinel)  
+  - [KeyLogger in Python (educational)](https://github.com/Alexjayleung/KeyCapture-Learning-Tool)
 
 <h2>🔭 Certifications</h2>
-  ➤ CompTIA A+ (in-progress)
+<ul>
+  <li>CompTIA A+ <em>(in progress)</em></li>
+</ul>
 
 <h2> 🤳 Connect with me:</h2>
 
