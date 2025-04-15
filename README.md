@@ -9,10 +9,11 @@
 ☁️ Learning hands-on with tools like Active Directory, Azure Sentinel, DVWA
 
 
-**🎮 Hobbies**  
-- Gaming/Game Development (strategy, FPS, or indie games)  
-- Badminton  
-- Weight Training
+**🎮 Hobbies:**  
+➤ Gaming/Game Development (strategy, FPS, or indie games)  
+➤ Badminton  
+➤ Weight Training
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
