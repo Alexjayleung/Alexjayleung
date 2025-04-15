@@ -6,7 +6,7 @@
   - [Cloud-Native SIEM Deployment with Azure Sentinel](https://github.com/Alexjayleung/Azure-Sentinel)
   - [KeyLogger in Python (educational)](https://github.com/Alexjayleung/KeyCapture-Learning-Tool)
 
-<h2>Certifications</h2>
+<h2>🔭 Certifications</h2>
 <ul>
   <li>CompTIA A+ (in-progress)</li>
 </ul>
