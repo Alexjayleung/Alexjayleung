@@ -1,5 +1,8 @@
 <h1>Hi, I'm Alex! </h1> 
 
+<h2>😄 About Me:</h2>
+
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/Alexjayleung/Active-Directory-Home-Lab)
