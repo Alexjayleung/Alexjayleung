@@ -1,7 +1,18 @@
 <h1>Hi, I'm Alex! </h1> 
 
 <h2>😄 About Me:</h2>
+🎓 I'm a Computer Science graduate from California Polytechnic State Univiversity, SLO  
 
+🌆 Born and raised in San Francisco, CA  
+🛠️ Currently working on IT home labs, cybersecurity projects, and learning more about cloud and network security  
+📚 Preparing for my CompTIA A+ certification  
+☁️ Learning hands-on with tools like Active Directory, Azure Sentinel, and DVWA
+
+
+🎮 Hobbies:
+- Gaming/Game Development (strategy, FPS, or indie games)  
+- Badminton
+- Weight Training
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
