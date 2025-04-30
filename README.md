@@ -17,7 +17,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/Alexjayleung/Active-Directory-Home-Lab)  
-  - [Cloud-Native SIEM Deployment with Azure Sentinel](https://github.com/Alexjayleung/Azure-Sentinel)  
+  - [Cloud-Native SIEM Deployment with Azure Sentinel](https://github.com/Alexjayleung/Azure-Sentinel)
+  - [File Integrity Monitor](https://github.com/Alexjayleung/Azure-Sentinel)  
   - [KeyLogger in Python (educational)](https://github.com/Alexjayleung/KeyCapture-Learning-Tool)
   - [Metasploit Vulnerability Assessment & Exploitation Lab](https://github.com/Alexjayleung/Metasploit-Vulnerability-Assessment)
 
