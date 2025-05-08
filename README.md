@@ -21,7 +21,7 @@
   - [File Integrity Monitor](https://github.com/Alexjayleung/File-Integrity-Monitor)  
   - [KeyLogger in Python (educational)](https://github.com/Alexjayleung/KeyCapture-Learning-Tool)
   - [Metasploit Vulnerability Assessment & Exploitation Lab](https://github.com/Alexjayleung/Metasploit-Vulnerability-Assessment)
-  - [Network Threat Detection & Response System](https://github.com/Alexjayleung/Metasploit-Vulnerability-Assessment)
+  - [Network Threat Detection & Response System](https://github.com/Alexjayleung/Threat-Detection-Response-System)
 
 
 <h2>🔭 Certifications</h2>
