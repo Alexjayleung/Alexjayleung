@@ -26,7 +26,8 @@
 
 <h2>🔭 Certifications</h2>
 <ul>
-  <li>CompTIA A+ <em>(in progress)</em></li>
+  <li>CompTIA A+ </li>
+  <li>CCNA <em>(in progress)</em></li>
 </ul>
 
 <h2> 🤳 Connect with me:</h2>
